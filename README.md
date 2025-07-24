@@ -132,9 +132,10 @@ Feel free to fork this repository and submit pull requests for any improvements.
 
 ## 📞 Contact
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [OliviaLJY](https://github.com/OliviaLJY)
+- **Email**: lij234152@gmail.com
+- **Phone**: (434) 999-7600
+- **LinkedIn**: [Jiayu Li](https://www.linkedin.com/in/jiayu-li-49441223a/)
+- **GitHub**: [OliviaLJY](https://github.com/OliviaLJY?tab=repositories)
 
 ---
 
