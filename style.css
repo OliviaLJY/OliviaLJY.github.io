@@ -127,6 +127,26 @@ body {
     z-index: 1;
 }
 
+.hero-content-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+    max-width: 1000px;
+}
+
+.hero-image {
+    flex-shrink: 0;
+}
+
+.profile-photo {
+    width: 280px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+    border: 4px solid rgba(255, 255, 255, 0.2);
+}
+
 .hero-content {
     max-width: 600px;
 }
@@ -649,6 +669,17 @@ section {
 
     .hero-subtitle {
         font-size: 1.4rem;
+    }
+
+    .hero-content-wrapper {
+        flex-direction: column;
+        text-align: center;
+        gap: 2rem;
+    }
+
+    .profile-photo {
+        width: 200px;
+        height: 250px;
     }
 
     .hero-buttons {
