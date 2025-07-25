@@ -819,3 +819,68 @@ section {
         font-size: 0.98rem;
     }
 } 
+
+.teaching {
+    background: #fff;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.teaching-content {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.teaching-item {
+    background: #f8fafc;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+.teaching-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.teaching-header h3 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #2563eb;
+    margin-right: 1rem;
+}
+
+.teaching-department,
+.teaching-date {
+    font-size: 1rem;
+    color: #6b7280;
+    font-weight: 500;
+}
+
+.teaching-details ul {
+    list-style: disc inside;
+    margin-left: 1rem;
+    color: #374151;
+    font-size: 1.05rem;
+}
+
+.teaching-details li {
+    margin-bottom: 0.5rem;
+}
+
+@media (max-width: 768px) {
+    .teaching-header {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    .teaching-item {
+        padding: 1.2rem;
+    }
+    .teaching-details ul {
+        font-size: 0.98rem;
+    }
+} 
