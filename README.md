@@ -1,6 +1,6 @@
 # Olivia Li - Personal Portfolio Website
 
-A modern, responsive personal portfolio website showcasing my experience as a Data Scientist and Software Engineer.
+A modern, responsive personal portfolio website showcasing my experience as a Software Engineer and AI Engineer.
 
 ## 🌐 Live Website
 
