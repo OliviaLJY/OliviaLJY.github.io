@@ -8,7 +8,7 @@ Visit the live website at: [https://olivialjy.github.io](https://olivialjy.githu
 
 ## 🚀 Features
 
-- **Modern Design**: Clean, professional layout optimized for HR and tech professionals
+- **Modern Design**: Clean, professional layout optimized for HR and professionals
 - **Responsive**: Fully responsive design that works on all devices
 - **Interactive**: Smooth scrolling navigation and hover effects
 - **Comprehensive**: Showcases work experience, projects, research, and technical skills
